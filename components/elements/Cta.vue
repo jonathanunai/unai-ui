@@ -52,9 +52,8 @@ export default {
   },
 };
 </script>
-<style lang="scss">
+<style>
 .button {
-  font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: 700;
   border: 0;
   border-radius: 3em;
@@ -66,6 +65,8 @@ export default {
   color: white;
   background-color: #1ea7fd;
 }
+
+
 .button--secondary {
   color: #333;
   background-color: transparent;
